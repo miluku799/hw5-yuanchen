@@ -114,4 +114,4 @@ This skill does not predict the future. It should not be used for medical, legal
 
 ## Video walkthrough
 
-Video link: [Add your video link here]
+Video link: https://youtu.be/lsG32tuuLAg
